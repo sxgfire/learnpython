@@ -6,11 +6,7 @@
 2、使用中文字体
   编辑.inputrc文件
   set meta-flag on
-
   set convert-meta off
-
   set input-meta on
-
   set output-meta on
-
   set completion-ignore-case on
