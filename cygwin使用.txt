@@ -10,3 +10,6 @@
   set input-meta on
   set output-meta on
   set completion-ignore-case on
+  
+3、打印中文
+  在菜单中option-text，设置编码格式
