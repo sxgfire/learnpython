@@ -1,0 +1,16 @@
+1、使用Python3方法
+  编辑.bash_profile文件
+  alias python="/cygdrive/d/Python/Python35/python.exe"
+
+  export python
+2、使用中文字体
+  编辑.inputrc文件
+  set meta-flag on
+
+  set convert-meta off
+
+  set input-meta on
+
+  set output-meta on
+
+  set completion-ignore-case on
